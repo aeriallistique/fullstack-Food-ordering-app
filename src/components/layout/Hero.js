@@ -20,11 +20,11 @@ export default function Hero(){
             aperiam minima molestiae ipsam.
           </p>
           <div className="flex gap-4 text-sm">
-            <button className="bg-primary uppercase flex items-center text-white px-4 py-2 rounded-full ">
+            <button className="flex justify-center bg-primary uppercase flex items-center text-white px-4 py-2 rounded-full ">
               Order Now
               <Right />
             </button>
-            <button className="flex gap-2 py-2 text-gray-600 semibold">
+            <button className="flex items-center border-0 gap-2 py-2 text-gray-600 semibold">
               Learn More
               <Right/>
             </button>
